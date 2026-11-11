@@ -1,0 +1,7 @@
+Method,Time (s),Selected features
+ReliefF,0.008,"thal, restecg, exang, cp, ca, sex"
+mRMR,0.125,"cp, thal, ca, exang, slope, thalach"
+LASSO,0.001,"thal, ca, exang, cp, oldpeak, thalach"
+LLBFS,0.059,"thal, cp, ca, exang, slope, oldpeak"
+FCMIM,0.05,"cp, thal, ca, thalach, oldpeak, age"
+EEMIFS (Proposed),1.972,"cp, thal, ca, thalach, oldpeak, age"

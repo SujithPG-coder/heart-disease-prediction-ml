@@ -1,0 +1,7 @@
+Feature Selection,Classifier,Accuracy_mean,Accuracy_std,F1_mean,MCC_mean
+ReliefF,Logistic Regression,0.8386,0.0681,0.8202,0.6784
+mRMR,SVM (Linear),0.8353,0.0706,0.8167,0.6701
+LASSO,Naive Bayes,0.8417,0.0946,0.8182,0.6833
+LLBFS,SVM (Linear),0.8284,0.0672,0.8038,0.6599
+FCMIM,SVM (Linear),0.8318,0.0583,0.8115,0.664
+EEMIFS (Proposed),Logistic Regression,0.8349,0.0558,0.8143,0.6707

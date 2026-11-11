@@ -1,0 +1,10 @@
+* text=auto
+*.v text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.asc binary
+*.pdsprj binary
+*.pdf binary
+*.pptx binary
+*.png binary
+*.jpg binary
